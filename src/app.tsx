@@ -1,6 +1,6 @@
 import React from "react";
 import { Toaster } from "react-hot-toast";
-import MyRouter from "routers/index";
+import MyRouter from "./routers/index";
 function App() {
   return (
     <>

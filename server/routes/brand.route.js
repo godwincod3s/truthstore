@@ -2,7 +2,7 @@
  * Title: Create brand route
  * Description: Routing credentials based on brand
  * Author: Hasibul Islam
- * Date: 14/03/2023
+ * Date: 14/03/2023 
  */
 
 /* external import */
